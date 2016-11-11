@@ -16,6 +16,11 @@
 /tmp/*
 !/log/.keep
 !/tmp/.keep
+/tmp
+/jetty
+/.idea
+/public/pdfs/*.pdf
+.keep
 
 # Ignore Byebug command history file.
 .byebug_history
